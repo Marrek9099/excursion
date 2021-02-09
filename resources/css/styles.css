@@ -12,9 +12,40 @@ a {
     color:aquamarine;
 }
 
+img {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
 /* Header */
+
+header{
+    margin-bottom: 20px;
+}
 
 header h1 {
     font-size: 50px;
+    font-weight: normal;
 }
 
+
+/* Info Section */
+
+section h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+section p {
+    font-size: 21px;
+    color: grey;
+}
+
+
+/* Footer */
+
+footer {
+    text-align: right;
+    color: grey;
+}

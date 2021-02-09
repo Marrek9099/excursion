@@ -1,0 +1,20 @@
+/* Common styles */
+
+body {
+    background: black;
+    text-align: center;
+    font-family: Verdana;
+    color: white;
+}
+
+a {
+    font-size: 16px;
+    color:aquamarine;
+}
+
+/* Header */
+
+header h1 {
+    font-size: 50px;
+}
+
